@@ -2,7 +2,7 @@
 
 ## You can use the following link to visit this website:-
 
-http://insaneshiv21.me/react-expense-tracker/
+https://shivexpensetracker.netlify.app/
 
 ### The main function of this website is:-
 It is expense tracker which keep the records of money transactions done by someone.
